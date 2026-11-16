@@ -1,0 +1,7 @@
+*.csv
+!synthetic_sci_data.csv
+*.xlsx
+*.parquet
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
